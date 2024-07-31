@@ -1,11 +1,11 @@
-<h1 align="center"> Line Music Bot <\> </h1>
+<h1 align="center"> Pickup Music Bot <\> </h1>
 
 <p align="center">
-  <img src="https://graph.org/file/9d75bfb77e17b80b3da5b.png" alt="Line Music Logo" width="640" height="360">
+  <img src="https://telegra.ph/file/307bbb0c427820802d501.jpg" alt="Pickup Line Music " width="640" height="360">
 </p>
 
 <p align="center">
-<a href="https://github.com/HEERIYE143/ZIDAN_MUSIC/stargazers"><img src="https://img.shields.io/github/stars/ll_P_U_L_lI/PICKUPMUSICBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/HEERIYE143/ZIDAN_MUSIC/stargazers"><img src="https://img.shields.io/github/stars/HEERIYE143/ZIDAN_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/HEERIYE143/ZIDAN_MUSIC/network/members"> <img src="https://img.shields.io/github/forks/HEERIYE143/ZIDAN_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/HEERIYE143/ZIDAN_MUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
